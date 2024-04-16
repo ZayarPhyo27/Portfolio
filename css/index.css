@@ -1490,8 +1490,8 @@ For devices with smaller width like mobile phone
         flex-direction: column-reverse;
     }
     .about-img img{
-        width: 280px;
-        height:220px !important;
+        width: 300px !important;
+        height: 280px !important;
         padding: 5px;
         border-radius: 10%;
         object-fit: cover !important;
